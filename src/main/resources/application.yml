@@ -1,3 +1,8 @@
 spring:
   profiles:
-    active: "dev"
+    active: "prod"
+PGHOST: containers-us-west-143.railway.app
+PGPORT: 7824
+PGPASSWORD: FCxcqRJxectLCPOt8V2Z
+PGUSER: postgres
+PGDATABASE: railway
